@@ -1,0 +1,18 @@
+{
+  "name": "davidmc-bookmarks",
+  "description": "Adds a bookmark block to the editor.",
+  "main": "none",
+  "scripts": {
+    "push": "git add . && git commit -m 'Update' && git push origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmatthewcoleman/bookmarks.git"
+  },
+  "author": "David M. Coleman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidmatthewcoleman/bookmarks/issues"
+  },
+  "homepage": "https://github.com/davidmatthewcoleman/bookmarks#readme"
+}
